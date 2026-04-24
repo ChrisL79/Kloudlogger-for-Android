@@ -1,2 +1,2 @@
 # Kloudlogger-for-Android
-Android App To Connect To The Kloudlogger Online Logbook
+Android app to connect to the kloudlogger online logbook
