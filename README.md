@@ -40,7 +40,7 @@ A full featured amateur radio QSO logging client for Cloudlog/Kloudlogger server
 - **Daily stats** — Live count of QSOs today and average rate per hour when 2 or more QSO's are made.
 
 ## Screenshots
-![Footswitch](Images/Main Screen.jpg)
+![img](IMAGES/Main Screen.jpg)
 
 
 ## Requirements
