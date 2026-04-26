@@ -224,18 +224,13 @@ The **server status strip** shows:
 - QRZBook: [qrzbook.net](https://qrzbook.net)
 - Kloudlogger: [kloudlogger.com](https://kloudlogger.com)
 
-## License
-
-GPL-3.0
-
-
 ## FAQ
 
 **Q: Can I use this with Cloudlog?**  
-A: Yes. Kloudlogger is Cloudlog compatible; my app works with both.
+A: Sure! Kloudlogger is Cloudlog compatible; my app works with both.
 
 **Q: Does the app work offline?**  
-A: Partial. You can log QSOs offline — they're stored locally. Once you have internet, they'll sync to the server. DX cluster and QRZ lookup require internet.
+A: Partially. You can log QSOs offline — they're stored locally. Once you have internet, they'll sync to the server. DX cluster and QRZ lookup require internet.
 
 **Q: Can I edit a QSO after logging?**  
 A: Yes. Open the **Logbook**, tap a QSO, and tap the edit pencil icon.
