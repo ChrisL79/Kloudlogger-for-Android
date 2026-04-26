@@ -85,7 +85,7 @@ cd KloudloggerApp
 2. Enter your **Hostname** (e.g., `kloudlogger.com` or `mycloud.example.com`)
 3. Paste your **API Key** (from your server's user profile)
 4. Enter your **Station ID** (numeric, from your server setup)
-5. Enter your **Public Logbook Slug** (just the slug, e.g., `M7JEX`; if your public URL is `https://kloudlogger.com/visitor/M7JEX`, enter `M7JEX`)
+5. Enter your **Public Logbook Slug** (just the slug; if your public URL is `https://kloudlogger.com/visitor/MYLOG`, enter `MYLOG`)
 6. Choose HTTP or HTTPS
 7. Tap **TEST SERVER CONNECTION** to verify
 
@@ -278,7 +278,7 @@ Pull requests welcome. Please:
 
 ## License
 
-[Specify your license here — e.g., GPL-3.0, MIT, Apache 2.0]
+GPL-3.0
 
 ## Changelog
 
@@ -310,7 +310,7 @@ Pull requests welcome. Please:
 - **Improved:** DX cluster regex tested against real DX Spider output samples
 
 ### v1.6.5 and earlier
-[See GitHub releases for earlier versions]
+See [GitHub releases](https://github.com/ChrisL79/KloudloggerApp/releases) for earlier versions
 
 ## FAQ
 
