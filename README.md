@@ -42,12 +42,12 @@ A full featured amateur radio QSO logging client for Cloudlog/Kloudlogger server
 ## Screenshots
 ![Main Screen](Images/Main%20Screen.jpg)
 ![Contest Logging](Images/Contest%20Logging.jpg)
-![Main Screen](Images/DX%Cluster.jpg)
-![Main Screen](Images/QO-100%Locator.jpg)
-![Main Screen](Images/Server%Logbook.jpg)
-![Main Screen](Images/Session%Logbook.jpg)
-![Main Screen](Images/Settings%1.jpg)
-![Main Screen](Images/Settings%2.jpg)
+![DX Cluster](Images/DX%20Cluster.jpg)
+![QO-100 Locator](Images/QO-100%20Locator.jpg)
+![Server Logbook](Images/Server%20Logbook.jpg)
+![Session Logbook](Images/Session%20Logbook.jpg)
+![Settings 1](Images/Settings%201.jpg)
+![Settings 1](Images/Settings%202.jpg)
 
 ## Requirements
 
