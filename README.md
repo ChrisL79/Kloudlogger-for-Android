@@ -1,9 +1,14 @@
 # Kloudlogger-for-Android
-Android Kloudlogger client app to connect to my kloudlogger online logbook. Works with both smartphones and tablets. It will also work with Cloudlog!
+
+Android Kloudlogger client app to connect to my Kloudlogger online logbook. Works with both smartphones and tablets. It will also work with Cloudlog!
+
+I make programs for myself if nothing exists that i exactly want. If they turn out to be half decent, i will share them with the world.
+
+I'm not a programmer! Ijust program for fun and to create something i need.
 
 # Kloudlogger Android App
 
-A full featured amateur radio QSO logging client for Cloudlog/Kloudlogger servers, with integrated DX cluster connectivity, QO-100 satellite finder, and real time server synchronisation.
+A full featured amateur radio QSO logging client for Cloudlog/Kloudlogger remote servers, with integrated DX cluster connectivity, QO-100 satellite finder, and real time server synchronisation.
 
 ## Features
 
