@@ -71,11 +71,11 @@ Simple! Download and run the APK from releases section.
 ### Server Setup (Kloudlogger/Cloudlog)
 
 1. Open **Settings** → **Server**
-2. Enter your **Hostname** (e.g., `kloudlogger.com` or `192.168.0.2 if you are using internal LAN only`)
+2. Enter your **Hostname** (e.g., `kloudlogger.com` or `e.g 192.168.0.2 if you are using internal LAN only`)
 3. Paste your **API Key** (from your Kloudlogger/Cloudlog server's user profile)
 4. Enter your **Station ID** (numeric, from your Kloudlogger/Cloudlog server setup)
 5. Enter your **Public Logbook Slug** (just the slug; if your public URL is `https://kloudlogger.com/visitor/MYLOG`, enter `MYLOG`)
-6. Choose HTTP or HTTPS depending if you have signed your own certificate using NGINX for example.
+6. Choose **HTTP or HTTPS** If you have signed your own certificate using NGINX for example, then choose **HTTPS**. If you connect to your server only within your LAN locally, then choose **HTTP**. If you operate remotely and access your server via your public IP address, then select **HTTP**.
 7. Tap **TEST SERVER CONNECTION** to verify
 
 ### QRZ Setup (Optional)
