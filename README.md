@@ -64,7 +64,7 @@ A full featured amateur radio QSO logging client for Kloudlogger/Cloudlog remote
 ## Installation
 
 Simple! Download and run the APK from releases section.
-```
+
 
 ## Configuration
 
