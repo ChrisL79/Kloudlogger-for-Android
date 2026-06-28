@@ -277,10 +277,10 @@ This software is provided 'as is' for the community. Please do not sell or modif
 ## FAQ
 
 **Q: Can I use this with Cloudlog?**  
-A: Yes. Kloudlogger is Cloudlog compatible; the app works with both.
+A: Yes. Kloudlogger is Cloudlog compatible. The app works with both.
 
 **Q: Does the app work offline?**  
-A: Partially. You can log QSOs offline and they're stored locally. Once you have internet, they'll sync to the server. DX cluster and QRZ lookup obviously require internet. Telepathy is not yet supported!
+A: Partially. You can log QSOs offline and they're stored locally. Once you have internet, logged QSO's will automatically sync to the server. DX cluster and QRZ lookup obviously require internet. Telepathy is not yet supported!
 
 **Q: Can I edit a QSO after logging?**  
 A: Yes. Open the **Logbook**, tap a QSO, and tap the edit pencil icon.
@@ -292,9 +292,13 @@ A: Default is 30 seconds after a new QSO. You can change this in **Settings** â†
 A: Some clusters have timeouts or require periodic keep-alives. Try a different cluster from the suggestions in the settings, or check with your cluster sysop.
 
 **Q: Does the IC-705 integration work with other Icom radios?**  
-A: Possibly, but it has only been tested on the IC-705. Other radios may use different CI-V addresses or sub-command codes.
+A: Possibly, but it has only been tested on the IC-705. Other radios may use different CI-V addresses or sub-command codes. Be a beta tester and give it a go!
 
 **Q: Do I need the AH-705 for the TUNE button to work?**  
-A: You need a compatible tuner. The TUNE button sends CI-V command 1C 01 02 which starts a tune cycle. Map the VOX key to TUNE in the IC-705 menu for it to operate the ATU.
+A: You need a compatible tuner. The TUNE button sends CI-V command 1C 01 02 which starts a tune cycle. You must map the VOX key to TUNE in the IC-705 menu for it to operate the ATU by pressing TUNE in the GUI.
 
 ---
+
+## Things still to do
+
+Make the QO-100 finder smoother! It is quite laggy at the moment, put perfectly usable. Move your device slowly. The faster you move, the longer it takes for the crosshairs to catch up. I have tried many diferent ways to fix this. I need someone with a few more brain cells than me to explain how to implement this better.
