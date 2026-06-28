@@ -270,6 +270,8 @@ The **server status strip** shows:
 
 This software is provided 'as is' for the community. Please do not sell or modify this software.
 
+## My other links
+
 - QRZBook: [qrzbook.net](https://qrzbook.net)
 - Kloudlogger: [kloudlogger.com](https://kloudlogger.com)
 - QRZ: [qrz.com/db/M7JEX](https://www.qrz.com/db/M7JEX)
