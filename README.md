@@ -53,7 +53,7 @@ A full featured amateur radio QSO logging client for Kloudlogger/Cloudlog remote
 ![Session Logbook](Images/Session%20Logbook.jpg)
 ![Settings 1](Images/Settings%201.jpg)
 ![Settings 1](Images/Settings%202.jpg)
-![Settings_1](Images/Main%Screen%IC-705%Integration.jpg)
+![Main Screen IC-705 Integration](Images/Main%Screen%IC-705%Integration.jpg)
 
 ## Requirements
 
