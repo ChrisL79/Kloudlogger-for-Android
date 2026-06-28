@@ -264,7 +264,7 @@ The **server status strip** shows:
 
 ## Author
 
-Designed and written by **Chris M7JEX**. Made with love in Somerset, United Kingdom, Earth.
+Designed and written by **Chris Lawton M7JEX**. Made with love in Somerset, United Kingdom, Earth.
 
 ## Licence
 
