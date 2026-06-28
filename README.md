@@ -301,4 +301,4 @@ A: You need a compatible tuner. The TUNE button sends CI-V command 1C 01 02 whic
 
 ## Things still to do
 
-Make the QO-100 finder smoother! It is quite laggy at the moment, put perfectly usable. Move your device slowly. The faster you move, the longer it takes for the crosshairs to catch up. I have tried many diferent ways to fix this. I need someone with a few more brain cells than me to explain how to implement this better.
+Make the QO-100 finder smoother! It is quite laggy at the moment, put perfectly usable. Move your device slowly. The faster you move, the longer it takes for the crosshairs to catch up. I have tried many diferent ways to fix this but to no avail. I need someone with a few more brain cells than me to explain how to implement this better.
